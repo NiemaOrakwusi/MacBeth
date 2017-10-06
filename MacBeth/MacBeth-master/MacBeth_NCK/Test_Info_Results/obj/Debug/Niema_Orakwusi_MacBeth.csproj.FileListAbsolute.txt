@@ -1,0 +1,5 @@
+D:\Download\MacBeth\MacBeth-master\MacBeth_NCK\Test_Info_Results\bin\Debug\Test_Info_Results.exe
+D:\Download\MacBeth\MacBeth-master\MacBeth_NCK\Test_Info_Results\bin\Debug\Test_Info_Results.pdb
+D:\Download\MacBeth\MacBeth-master\MacBeth_NCK\Test_Info_Results\obj\Debug\Niema_Orakwusi_MacBeth.csprojResolveAssemblyReference.cache
+D:\Download\MacBeth\MacBeth-master\MacBeth_NCK\Test_Info_Results\obj\Debug\Test_Info_Results.exe
+D:\Download\MacBeth\MacBeth-master\MacBeth_NCK\Test_Info_Results\obj\Debug\Test_Info_Results.pdb

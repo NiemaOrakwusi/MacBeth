@@ -1,0 +1,10 @@
+c:\users\god's blessing\documents\visual studio 2012\Projects\Test_Info_Results\Test_Info_Results\obj\Debug\Test_Info_Results.exe
+c:\users\god's blessing\documents\visual studio 2012\Projects\Test_Info_Results\Test_Info_Results\obj\Debug\Test_Info_Results.pdb
+c:\users\god's blessing\documents\visual studio 2012\Projects\Test_Info_Results\Test_Info_Results\bin\Debug\Test_Info_Results.exe
+c:\users\god's blessing\documents\visual studio 2012\Projects\Test_Info_Results\Test_Info_Results\bin\Debug\Test_Info_Results.pdb
+C:\Users\God's blessing\Desktop\MacBeth 2\MacBeth_NCK\Test_Info_Results\obj\Debug\Test_Info_Results.exe
+C:\Users\God's blessing\Desktop\MacBeth 2\MacBeth_NCK\Test_Info_Results\obj\Debug\Test_Info_Results.pdb
+D:\Download\MacBeth\MacBeth-master\MacBeth_NCK\Test_Info_Results\obj\Debug\Test_Info_Results.exe
+D:\Download\MacBeth\MacBeth-master\MacBeth_NCK\Test_Info_Results\obj\Debug\Test_Info_Results.pdb
+D:\Download\MacBeth\MacBeth-master\MacBeth_NCK\Test_Info_Results\bin\Debug\Test_Info_Results.exe
+D:\Download\MacBeth\MacBeth-master\MacBeth_NCK\Test_Info_Results\bin\Debug\Test_Info_Results.pdb

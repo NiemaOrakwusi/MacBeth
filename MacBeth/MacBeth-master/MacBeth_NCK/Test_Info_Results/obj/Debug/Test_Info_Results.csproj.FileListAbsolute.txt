@@ -1,0 +1,5 @@
+c:\users\god's blessing\documents\visual studio 2012\Projects\Test_Info_Results\Test_Info_Results\bin\Debug\Test_Info_Results.exe
+c:\users\god's blessing\documents\visual studio 2012\Projects\Test_Info_Results\Test_Info_Results\bin\Debug\Test_Info_Results.pdb
+c:\users\god's blessing\documents\visual studio 2012\Projects\Test_Info_Results\Test_Info_Results\obj\Debug\Test_Info_Results.csprojResolveAssemblyReference.cache
+c:\users\god's blessing\documents\visual studio 2012\Projects\Test_Info_Results\Test_Info_Results\obj\Debug\Test_Info_Results.exe
+c:\users\god's blessing\documents\visual studio 2012\Projects\Test_Info_Results\Test_Info_Results\obj\Debug\Test_Info_Results.pdb
